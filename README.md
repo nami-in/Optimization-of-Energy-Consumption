@@ -1,3 +1,2 @@
 # Perila-guys
-Machine Learning, 
-Random Forest
+Machine Learning based project
