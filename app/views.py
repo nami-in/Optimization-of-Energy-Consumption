@@ -6,3 +6,6 @@ def home(request):
     obj=Room.objects.all()
     print(obj)
     return HttpResponse("success")
+
+def login(request):
+    return render(request,'login.html')
